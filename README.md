@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **karim.fathy.321@gmail.com**
 
-- <a href="https://www.linkedin.com/in/karimfathy1/overlay/1635523153850/single-media-viewer/?profileId=ACoAAC2v1YgBAwi9jdGLSyl1lwhpYpXlUoNRkkA" target="_blank" rel="noreferrer">📄 Know about my experiences </a>
+- <a href="https://www.linkedin.com/in/karimfathy1/overlay/1635523153850/single-media-viewer/?profileId=ACoAAC2v1YgBAwi9jdGLSyl1lwhpYpXlUoNRkkA" target="_blank" rel="noreferrer" style="color:black;">📄 Know about my experiences here!</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
